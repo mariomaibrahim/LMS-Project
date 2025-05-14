@@ -1,4 +1,4 @@
-# Java Swing LMS
+# Java Swing LMS ✨
 
 A modern **Java Swing-based desktop application** built using **NetBeans**, designed to simulate a university portal interface. The system offers four main modules:  
 **Dashboard**, **Assignments**, **Courses**, and **Grades** — all wrapped in an intuitive, clean GUI.
@@ -7,54 +7,54 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 ---
 
-## Features
+## Features 🚀
 
-- **Dashboard**  
+- **Dashboard** 🏠  
   Displays an overview of the student's profile, notifications, and quick navigation.
 
-- **Assignments**  
+- **Assignments** 📝  
   View upcoming and submitted assignments with status and due dates.
 
-- **Courses**  
+- **Courses** 📚  
   Explore enrolled courses with descriptions and schedules.
 
-- **Grades**  
+- **Grades** 📊  
   View grades by semester, course breakdowns, and GPA summaries.
 
 ---
 
-## Technologies Used
+## Technologies Used 🛠️
 
-- Java SE (Swing)
-- NetBeans IDE
-- MVC Architecture
-- Custom Styling with Java Swing components
+- **Java SE (Swing)**  
+- **NetBeans IDE**  
+- **MVC Architecture**  
+- **Custom Styling with Swing components**
 
 ---
 
-## Screenshots
+## Screenshots 🖼️
 
 > Replace these with your actual screenshots or animated GIFs from the application.
 
-| Dashboard | Assignments |
-|----------|-------------|
+| Dashboard 🏠 | Assignments 📝 |
+|-------------|----------------|
 | ![dashboard](./screenshots/dashboard.png) | ![assignments](./screenshots/assignments.png) |
 
-| Courses | Grades |
-|--------|--------|
+| Courses 📚 | Grades 📊 |
+|------------|------------|
 | ![courses](./screenshots/courses.png) | ![grades](./screenshots/grades.png) |
 
 ---
 
-## Getting Started
+## Getting Started ⚙️
 
 ### Requirements
 
-- Java JDK 8 or higher  
-- NetBeans IDE (Recommended for editing and running the project)
+- ☕ Java JDK 8 or higher  
+- 🧰 NetBeans IDE (Recommended for editing and running the project)
 
 ### How to Run
 
-1. Clone the repository:
+1. 📥 Clone the repository:
    ```bash
    git clone https://github.com/your-username/JavaSwing-UniversityPortal.git
