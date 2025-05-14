@@ -56,4 +56,4 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/JavaSwing-UniversityPortal.git
+   git clone https://github.com/mariomaibrahim/LMS-Project
