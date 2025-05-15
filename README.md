@@ -57,4 +57,4 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/.git
+   git clone [https://github.com/.git](https://github.com/mariomaibrahim/LMS-Project)
