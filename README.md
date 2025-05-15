@@ -33,7 +33,7 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 ## Screenshots
 
-> Replace these with your actual screenshots or animated GIFs from the application.
+> Pictures taken from inside the program 
 
 | Dashboard | Assignments |
 |----------|-------------|
