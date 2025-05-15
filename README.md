@@ -1,9 +1,8 @@
-# Java Swing University Portal
+# Java Swing LMS
 
 A modern **Java Swing-based desktop application** built using **NetBeans**, designed to simulate a university portal interface. The system offers four main modules:  
 **Dashboard**, **Assignments**, **Courses**, and **Grades** — all wrapped in an intuitive, clean GUI.
 
-![App Preview](./screenshots/preview.gif) <!-- Add your own animated GIF here -->
 
 ---
 
