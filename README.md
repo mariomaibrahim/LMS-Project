@@ -1,65 +1,60 @@
-Java Swing LMS
+# Java Swing University Portal
 
-A modern Java Swing-based desktop application built using NetBeans, designed to simulate a university portal interface. The system offers four main modules:
-Dashboard, Assignments, Courses, and Grades — all wrapped in an intuitive, clean GUI.
+A modern **Java Swing-based desktop application** built using **NetBeans**, designed to simulate a university portal interface. The system offers four main modules:  
+**Dashboard**, **Assignments**, **Courses**, and **Grades** — all wrapped in an intuitive, clean GUI.
 
-
----
-
-Features
-
-Dashboard
-Displays an overview of the student's profile, notifications, and quick navigation.
-
-Assignments
-View upcoming and submitted assignments with status and due dates.
-
-Courses
-Explore enrolled courses with descriptions and schedules.
-
-Grades
-View grades by semester, course breakdowns, and GPA summaries.
-
-
+![App Preview](./screenshots/preview.gif) <!-- Add your own animated GIF here -->
 
 ---
 
-Technologies Used
+## Features
 
-Java SE (Swing)
+- **Dashboard**  
+  Displays an overview of the student's profile, notifications, and quick navigation.
 
-NetBeans IDE
+- **Assignments**  
+  View upcoming and submitted assignments with status and due dates.
 
-MVC Architecture
+- **Courses**  
+  Explore enrolled courses with descriptions and schedules.
 
-Custom Styling with Java Swing components
-
-
-
----
-
-Screenshots
-
-> Images from inside the app
-
-
-
+- **Grades**  
+  View grades by semester, course breakdowns, and GPA summaries.
 
 ---
 
-Getting Started
+## Technologies Used
 
-Requirements
+- Java SE (Swing)
+- NetBeans IDE
+- MVC Architecture
+- Custom Styling with Java Swing components
 
-Java JDK 8 or higher
+---
 
-NetBeans IDE (Recommended for editing and running the project)
+## Screenshots
 
+> Replace these with your actual screenshots or animated GIFs from the application.
 
-How to Run
+| Dashboard | Assignments |
+|----------|-------------|
+| ![dashboard](./screenshots/dashboard.png) | ![assignments](./screenshots/assignments.png) |
+
+| Courses | Grades |
+|--------|--------|
+| ![courses](./screenshots/courses.png) | ![grades](./screenshots/grades.png) |
+
+---
+
+## Getting Started
+
+### Requirements
+
+- Java JDK 8 or higher  
+- NetBeans IDE (Recommended for editing and running the project)
+
+### How to Run
 
 1. Clone the repository:
-
-git clone https://github.com/your-username/JavaSwing-UniversityPortal.git
-
-ض
+   ```bash
+   git clone https://github.com/.git
