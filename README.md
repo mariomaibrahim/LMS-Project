@@ -39,9 +39,9 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 |----------|-------------|
 | ![dashboard](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Dashboard.png) | ![assignments](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Assignments.png) |
 
-| Courses | Grades |
+| Courses | Grades | Sign in |
 |--------|--------|
-| ![courses](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Courses.png) | ![grades](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Grades.png) |
+| ![courses](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Courses.png) | ![grades](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Grades.png) |![Sign in](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Sign_in.png) |
 
 ---
 
