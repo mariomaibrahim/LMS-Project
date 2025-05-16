@@ -41,7 +41,7 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 | Courses | Grades | Sign in |
 |--------|--------|
-| ![courses](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Courses.png) | ![grades](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Grades.png) |![Sign in](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Sign_in.png) |
+| ![courses](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Courses.png) | ![grades](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Grades.png) 
 
 ---
 
