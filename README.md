@@ -37,11 +37,11 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 | Dashboard | Assignments |
 |----------|-------------|
-| ![dashboard](./screenshots/dashboard.png) | ![assignments](./screenshots/assignments.png) |
+| ![dashboard](./screenshots/Dashboard.png) | ![assignments](./screenshots/Assignments.png) |
 
 | Courses | Grades |
 |--------|--------|
-| ![courses](./screenshots/courses.png) | ![grades](./screenshots/grades.png) |
+| ![courses](./screenshots/Courses.png) | ![grades](./screenshots/Grades.png) |
 
 ---
 
