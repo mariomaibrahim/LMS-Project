@@ -37,7 +37,7 @@ A modern **Java Swing-based desktop application** built using **NetBeans**, desi
 
 | Dashboard | Assignments |
 |----------|-------------|
-| ![dashboard](./screenshots/Dashboard.png) | ![assignments](./screenshots/Assignments.png) |
+| ![dashboard](./screenshots/Dashboard.png) | ![assignments]([./screenshots/Assignments.png](https://github.com/mariomaibrahim/LMS-Project/blob/main/Screenshots/Assignments.png)) |
 
 | Courses | Grades |
 |--------|--------|
